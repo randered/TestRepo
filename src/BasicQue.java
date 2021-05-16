@@ -33,4 +33,5 @@ public class BasicQue {
         else { System.out.println(smallestNums.pop()); }
     }
 
+
 }
